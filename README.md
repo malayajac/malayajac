@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a data scientist interested in NLP, knowledge graphs, causal inference.
+
+In a past life, I used to work on complex networks, dynamical systems, science communication.
+
 <!--
 **malayajac/malayajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
