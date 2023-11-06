@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist interested in NLP, knowledge graphs, causal inference.
+I'm a data scientist interested in NLP, knowledge graphs, causal inference, and scientific software development.
 
 In a past life, I used to work on complex networks, dynamical systems, science communication.
 
